@@ -1,0 +1,10 @@
+main.c:557:6:StartSdReadTask	56	static
+main.c:646:6:StartSdWriteTask	64	static
+main.c:97:6:HAL_GPIO_EXTI_Callback	4	static
+main.c:129:6:ITM_SendStr	0	static,ignoring_inline_asm
+main.c:250:6:SystemClock_Config	88	static
+main.c:707:6:StartSdFormatTask	8	static
+main.c:741:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:759:6:Error_Handler	8	static
+main.c:144:5:main	120	static
+main.c:498:6:StartDefaultTask	8	static

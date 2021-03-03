@@ -1,0 +1,8 @@
+main.c:478:6:LED_Task_Function	8	static
+main.c:507:6:uSD_Task_Function	8	static
+main.c:109:6:HAL_GPIO_EXTI_Callback	0	static,ignoring_inline_asm
+main.c:135:6:ITM_SendStr	0	static,ignoring_inline_asm
+main.c:230:6:SystemClock_Config	88	static
+main.c:150:5:main	104	static
+main.c:555:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:573:6:Error_Handler	0	static
